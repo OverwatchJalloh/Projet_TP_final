@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projet_TP_final.iml" filepath="$PROJECT_DIR$/Projet_TP_final.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/config-service/config-service.iml" filepath="$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/config-service/config-service.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/customer-service/customer-service.iml" filepath="$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/customer-service/customer-service.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/gateway-service/gateway-service.iml" filepath="$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/inventory-service/inventory-service.iml" filepath="$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/order-service/order-service.iml" filepath="$USER_HOME$/OneDrive/Bureau/Projet_infonuagique_UQAC/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
